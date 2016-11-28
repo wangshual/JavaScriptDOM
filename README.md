@@ -1,3 +1,4 @@
+![](http://i.imgur.com/gnJFIFV.jpg)
 # JavaScriptDOM
 For an index of all the code samples, double click on index.html.
 
